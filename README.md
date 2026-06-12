@@ -1,6 +1,6 @@
 <!-- "Hero" Header -->
 <div align="center">
-  <img src="https://github.com/luisSchleef/luisSchleef/blob/main/images/welcome.png?raw=true" style="max-width: 100%;" alt="Bienvenido a mi Github Profile" />
+  <img src="images/welcome.png?raw=true" style="max-width: 100%;" alt="Bienvenido a mi Github Profile" />
   <br />
   <br />
   <img height="50" alt="Mi nombre es Luis y estoy aprendiendo React" src="images/personal_note.svg" />
@@ -48,6 +48,6 @@
 
 <div align="center">
 
-<img height="120" alt="Gracias por visitar mi perfil" width="100%" src="https://raw.githubusercontent.com/luisSchleef/luisSchleef/main/images/marquee.svg" />
+<img height="120" alt="Gracias por visitar mi perfil" width="100%" src="images/marquee.svg" />
 <br />
 </div>
