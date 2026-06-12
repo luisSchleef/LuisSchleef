@@ -28,7 +28,7 @@
 </td>
 
 <td align="center">
-<strong>buildiando cositas </strong>
+<strong>se vienen cositas </strong>
 <br />
 <br />
 <br />
