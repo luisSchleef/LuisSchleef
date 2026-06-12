@@ -28,7 +28,7 @@
 </td>
 
 <td align="center">
-<strong>se vienen cositas </strong>
+<strong>Se vienen cositas </strong>
 <br />
 <br />
 <br />
