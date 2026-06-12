@@ -3,7 +3,7 @@
 		<div xmlns="http://www.w3.org/1999/xhtml">
 			<style>
         .marquee {
-          height: 50px;	
+          height: 50px;
           overflow: hidden;
           position: relative;
         }
@@ -24,16 +24,16 @@
         }
 
         @keyframes marquee {
-          0%   { 
-            transform: translateX(100%); 		
+          0%   {
+            transform: translateX(100%);
           }
-          100% { 
-            transform: translateX(-80%); 
+          100% {
+            transform: translateX(-80%);
           }
         }
       </style>
       <div class="marquee">
-        <strong>Thanks for visiting my profile, see you next time!</strong>
+        <strong>Gracias por visitar mi perfil, exito!</strong>
       </div>
 		</div>
 	</foreignObject>
