@@ -27,13 +27,25 @@
 
 </td>
 
+<td align="center">
+<strong>buildiando cositas </strong>
+<br />
+<br />
+<br />
+
+<p>
+
+<img alt="Globe" height="80" src="images/building.gif">
+</a>
+</p>
+
+</td>
 
 <td align="center">
 <a href="https://www.youtube.com/watch?v=oHg5SJYRHA0">
 <strong>Escucha música cool</strong>
 <br />
 <br />
-
 
 <p>
 <img height="100" alt="Music" src="images/music.gif"> 
