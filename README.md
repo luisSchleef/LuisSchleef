@@ -13,7 +13,8 @@
 <table width="100%" align="center">
 <tr>
 <td align="center">
-<a href="http://luisschleef.github.io/" <strong>Visita mi web personal </strong>>
+<a href="http://luisschleef.github.io/"> 
+<strong>Visita mi web personal </strong>
 <br />
 <br />
 <br />
