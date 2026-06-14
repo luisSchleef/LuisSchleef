@@ -21,7 +21,7 @@
 
 <p>
 
-<img alt="Globe" height="80" src="images/globe.gif">
+<img href="http://luisschleef.github.io/" alt="Globe" height="80" src="images/globe.gif">
 </a>
 </p>
 
@@ -48,7 +48,7 @@
 <br />
 
 <p>
-<img height="100" alt="Music" src="images/music.gif"> 
+<img href="https://www.youtube.com/watch?v=oHg5SJYRHA0" height="100" alt="Music" src="images/music.gif"> 
 </a>
 </p>
 
