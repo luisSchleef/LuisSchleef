@@ -26,7 +26,7 @@
 
 </td>
 
-<td align="center" style="pointer-events: none; user-select: none;">
+<td align="center">
 <strong>Se vienen cositas </strong>
 <br />
 <br />
@@ -46,7 +46,7 @@
 <br />
 
 <p>
-<a href="https://www.youtube.com/watch?v=oHg5SJYRHA0"><img height="100" alt="Music" src="images/music.gif"></a> 
+<a href="https://www.youtube.com/watch?v=oHg5SJYRHA0"><img height="80" alt="Music" src="images/music.gif"></a> 
 </a>
 </p>
 
