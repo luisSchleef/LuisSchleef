@@ -24,6 +24,9 @@
 </a>
 </p>
 
+<br />
+<br />
+<br />
 </td>
 
 <td align="center">
@@ -36,6 +39,9 @@
 <img alt="Globe" height="80" src="images/building.gif">
 </p>
 
+<br />
+<br />
+<br />
 </td>
 
 <td align="center">
@@ -50,6 +56,9 @@
 </a>
 </p>
 
+<br />
+<br />
+<br />
 </td>
 </tr>
 </table>
