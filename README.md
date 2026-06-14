@@ -16,24 +16,20 @@
 <a href="http://luisschleef.github.io/"> 
 <strong>Visita mi web personal </strong>
 <br />
-<br />
-<br />
-<img alt="Globe" height="80" src="images/globe.gif">
-</a>
 
+<p>
+<img alt="Globe" height="80" src="images/globe.gif">
+</p>
+</a>
 
 </td>
 
 <td align="center">
 <strong>Se vienen cositas </strong>
 <br />
-<br />
-<br />
 
 <p>
-
 <img alt="Globe" height="80" src="images/building.gif">
-</a>
 </p>
 
 </td>
@@ -42,12 +38,11 @@
 <a href="https://www.youtube.com/watch?v=oHg5SJYRHA0">
 <strong>Escucha música cool</strong>
 <br />
-<br />
 
 <p>
 <img height="100" alt="Music" src="images/music.gif"> 
-</a>
 </p>
+</a>
 
 </td>
 </tr>
