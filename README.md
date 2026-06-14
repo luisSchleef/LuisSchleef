@@ -19,8 +19,8 @@
 
 <p>
 <img alt="Globe" height="80" src="images/globe.gif">
-</p>
 </a>
+</p>
 
 </td>
 
@@ -41,8 +41,8 @@
 
 <p>
 <img height="100" alt="Music" src="images/music.gif"> 
-</p>
 </a>
+</p>
 
 </td>
 </tr>
