@@ -62,4 +62,9 @@
 
 <img height="120" alt="Gracias por visitar mi perfil" width="100%" src="images/marquee.svg" />
 <br />
+<img src="images/goblins.gif" alt="" height="30" />
+<span>&nbsp;&nbsp;&nbsp;&nbsp;</span>  
+<img src="hl.gif" alt="" />
+<span>&nbsp;&nbsp;&nbsp;&nbsp;</span>  
+<img src="apple_fatal_error.gif" alt="" />
 </div>
