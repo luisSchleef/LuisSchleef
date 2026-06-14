@@ -64,7 +64,7 @@
 <br />
 <img src="images/goblins.gif" alt="" height="30" />
 <span>&nbsp;&nbsp;&nbsp;&nbsp;</span>  
-<img src="hl.gif" alt="" />
+<img src="images/hl.gif" alt="" />
 <span>&nbsp;&nbsp;&nbsp;&nbsp;</span>  
-<img src="apple_fatal_error.gif" alt="" />
+<img src="images/apple_fatal_error.gif" alt="" />
 </div>
