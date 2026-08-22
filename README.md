@@ -3,7 +3,7 @@
   <img src="images/welcome.png?raw=true" alt="Bienvenido a mi Github Profile" />
   <br />
   <br />
-  <img height="50" alt="Mi nombre es Luis y estoy aprendiendo React" src="images/personal_note.svg"/>
+  <img height="50" alt="Mi nombre es Luis y estoy aprendiendo azure" src="images/personal_note.svg"/>
   <br />
   <br />
 
