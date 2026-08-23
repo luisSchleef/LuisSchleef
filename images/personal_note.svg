@@ -4,7 +4,7 @@
 			<style>
         strong {
           font-family: "Comic Sans", "Comic Sans MS", Chalkboard, ChalkboardSE-Regular, "Marker Felt", Purisa, "URW Chancery L", cursive, sans-serif;
-          color: limegreen;
+          color: blue;
           font-size: 1.5em;
         }
 
@@ -17,7 +17,7 @@
           }
         }
       </style>
-      <strong>Mi nombre es Luis y estoy aprendiendo <span class="blink" color: blue;>Azure</span></strong>
+      <strong>Mi nombre es Luis y estoy aprendiendo <span class="blink";>Azure</span></strong>
 		</div>
 	</foreignObject>
 </svg>
