@@ -2,22 +2,25 @@
 	<foreignObject width="100%" height="100%">
 		<div xmlns="http://www.w3.org/1999/xhtml">
 			<style>
-        strong {
-          font-family: "Comic Sans", "Comic Sans MS", Chalkboard, ChalkboardSE-Regular, "Marker Felt", Purisa, "URW Chancery L", cursive, sans-serif;
-          color: lightblue;
-          font-size: 1.5em;
-        }
-
-        .blink {
-          animation: blink-animation 1s steps(5, start) infinite;
-        }
-        @keyframes blink-animation {
-          to {
-            visibility: hidden;
-          }
-        }
-      </style>
-      <strong>Mi nombre es Luis y estoy aprendiendo <span class="blink" style="color: blue;">Azure</span> y <span class="blink" style="color: orange;">Java</span></strong> 
+		        strong {
+		          font-family: "Comic Sans", "Comic Sans MS", Chalkboard, ChalkboardSE-Regular, "Marker Felt", Purisa, "URW Chancery L", cursive, sans-serif;
+		          color: lightblue;
+		          font-size: 1.5em;
+		        }
+		
+		        .blink {
+		          animation: blink-animation 1s steps(5, start) infinite;
+		        }
+			    .blink2 {
+		          animation: blink-animation 1.2s steps(5, start) infinite;
+		        }
+		        @keyframes blink-animation {
+		          to {
+		            visibility: hidden;
+		          }
+		        }
+		      </style>
+			<strong>Mi nombre es Luis y estoy aprendiendo <span class="blink" style="color: blue;">Azure</span> y <span class="blink2" style="color: orange;">Java</span></strong> 
 		</div>
 	</foreignObject>
 </svg>
