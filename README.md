@@ -40,18 +40,6 @@
 <br />
 </td>
 
-<td align="center">
-<a href="https://www.youtube.com/watch?v=oHg5SJYRHA0">
-<strong>Escucha música cool</strong>
-<br />
-<br />
-<br />
-
-<p>
-<a href="https://www.youtube.com/watch?v=oHg5SJYRHA0"><img height="80" alt="Music" src="images/music.gif"></a> 
-</a>
-</p>
-
 <br />
 </td>
 </tr>
