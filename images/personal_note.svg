@@ -1,4 +1,4 @@
-<svg fill="none" viewBox="0 0 550 40" width="550" height="40" text-align="center" xmlns="http://www.w3.org/2000/svg">
+<svg fill="none" viewBox="0 0 630 40" width="550" height="40" text-align="center" xmlns="http://www.w3.org/2000/svg">
 	<foreignObject width="100%" height="100%">
 		<div xmlns="http://www.w3.org/1999/xhtml">
 			<style>
@@ -17,7 +17,7 @@
           }
         }
       </style>
-      <strong>Mi nombre es Luis y estoy aprendiendo <span class="blink" style="color: blue;">Azure</span></strong>
+      <strong>Mi nombre es Luis y estoy aprendiendo <span class="blink" style="color: blue;">Azure</span> y <span class="blink" style="color: orange;">Java</span></strong> 
 		</div>
 	</foreignObject>
 </svg>
