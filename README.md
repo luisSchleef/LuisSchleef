@@ -1,59 +1,29 @@
-<!-- "Hero" Header -->
+<!-- Header -->
 <div align="center">
   <img src="images/welcome.png?raw=true" alt="Bienvenido a mi Github Profile" />
-  <br />
-  <br />
+    <br />
+    <br />
   <img height="50" alt="Mi nombre es Luis y estoy aprendiendo azure" src="images/personal_note.svg"/>
-  <br />
-  <br />
+    <br />
+    <br />
 
 </div>
 
-<!-- Social -->
-<table width="100%" align="center">
-<tr>
+<!-- Main -->
+<div width="100%" align="center">
 <td align="center">
-<a href="http://luisschleef.github.io/"> 
-<strong>Visita mi web personal </strong>
-<br />
-<br />
-<br />
-
+  <br />
+  <br />
 <p>
-<a href="http://luisschleef.github.io/"><img alt="Globe" height="80" src="images/globe.gif"></a>
-</a>
+<img alt="Globe" height="660" src="images/building.gif">
 </p>
-
-<br />
-</td>
-
-<td align="center">
-<strong>Se vienen cositas </strong>
-<br />
-<br />
-<br />
-
-<p>
-<img alt="Globe" height="80" src="images/building.gif">
-</p>
-
-<br />
-</td>
-
-<br />
-</td>
-</tr>
-</table>
+  <br />
+  <br />
+</div>
 
 <!-- Footer -->
-
 <div align="center">
 
 <img height="120" alt="Gracias por visitar mi perfil" width="100%" src="images/marquee.svg"/>
-<br />
-<img src="images/goblins.gif" alt=""/>
-<span>&nbsp;&nbsp;&nbsp;&nbsp;</span>  
-<img src="images/hl.gif" alt=""/>
-<span>&nbsp;&nbsp;&nbsp;&nbsp;</span>  
-<img src="images/apple_fatal_error.gif" alt=""/>
+  <br />
 </div>
